@@ -11,3 +11,6 @@ npm run build
 npm start
 ```
 at that point, website should be running at http://localhost:8080/
+
+### or
+just click on index.html in the dist or src folders. that should work too. 
