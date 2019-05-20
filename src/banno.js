@@ -1,4 +1,5 @@
 
+import './styles.css'
 
 var loader = document.getElementById("loader");
 var spanTitle = document.getElementById("mySpan");
